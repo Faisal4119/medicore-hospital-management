@@ -12,3 +12,7 @@ out/
 Thumbs.db
 .DS_Store
 ~$*
+
+# Personal notes (not published)
+VIVA_PREP.md
+code_explanation.md
