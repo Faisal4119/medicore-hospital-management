@@ -1,0 +1,14 @@
+# Compiled output
+out/
+*.class
+
+# Editor / tool config (machine-specific)
+.vscode/
+.idea/
+*.iml
+.serena/
+
+# OS / Office temp files
+Thumbs.db
+.DS_Store
+~$*
